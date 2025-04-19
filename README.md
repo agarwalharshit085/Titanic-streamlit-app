@@ -54,6 +54,6 @@ This project uses the **Titanic dataset** to build a classification model using 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/titanic-survival-app.git
-   cd titanic-survival-app
+   git clone https://github.com/your-username/Titanic-streamlit-app.git
+   cd Titanic-streamlit-app
 
